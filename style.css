@@ -29,8 +29,8 @@ main {
 }
 
 img {
-    width: 520px;
-    height: 570px;
+    width: 40%;
+    height: 80%;
     display: block;
     margin: 0 auto;
     border-left: 15px solid #Fdfd09;
@@ -44,12 +44,13 @@ figcaption {
 
 ul {
     list-style-type: none;
-    margin-left: 340px;
+    
+    
     
 }
 
 blockquote {
-        width: 700px;
+        width: 80%;
         height: 100%;
         padding: 22px;
         display: block;
@@ -75,4 +76,11 @@ blockquote {
 button {
     background-color: palevioletred;
     border-radius: 5px;
+}
+
+.list {
+    display: block;
+    justify-content: center;
+    align-items: center;
+
 }
