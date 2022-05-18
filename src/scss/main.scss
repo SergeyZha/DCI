@@ -1,0 +1,18 @@
+// This is where you can import other stylesheets or write your scss code
+
+
+$primary:rgb(59, 169, 44);
+
+
+header{
+    
+    ul{
+        display: block;
+        background-color: $primary;
+        list-style-type: none;
+
+        
+    }
+    
+}
+// @import "../../node_modules/bootstrap/scss/bootstrap";
