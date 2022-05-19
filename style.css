@@ -3,7 +3,7 @@ h1 {
 }
 
 
- h2 {
+h2 {
     background-color: #Fdfd09;
     text-align: center;
     padding: 5px;
@@ -19,6 +19,7 @@ footer {
     text-align: center;
 
 }
+
 
 main {
     background-color: #d1cece ;
@@ -74,8 +75,11 @@ blockquote {
 }  
   
 button {
+    width: 8rem;
+    height: 2rem;
     background-color: palevioletred;
     border-radius: 5px;
+    font-weight: bold;
 }
 
 .list {
